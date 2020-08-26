@@ -37,5 +37,11 @@ Run the code
     $ python api_code.py
     
 Now navigate to browser and type 
-    https://example.com/country-capital/<query-params> 
+    https://localhost:port-no/country-capital/<query-params> 
+ 
     <query-params> write the Country-Name
+     port-no: which you used in code
+    
+There is a microservice endpoint for this API available at
+
+    https://example.com/country-capital/<query-params>
