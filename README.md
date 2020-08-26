@@ -21,7 +21,7 @@ Before running tests locally make sure, you have forked the project to create yo
 
 Cd into your local repo
      
-    $ cd python-tdd-classroom
+    $ cd country-capital-api
     
 Make sure you are in the root directory of the project
 
